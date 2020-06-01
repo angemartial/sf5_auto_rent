@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14cc4602-5510-4afb-96ab-2e965e69775e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/ofi.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/013-car-4.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/switcher/css/color4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/rendro-easy-pie-chart/jquery.easypiechart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/005-speedometer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Seringe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/012-car-3.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/016-car-5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Astronaut.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slick/slick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-brands-400.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/016-car-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Keyboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap-select/css/bootstrap-select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/third-party-libs/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/FullShoppingCart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/auto-check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-brands-400.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/004-car.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/017-car-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/flowplayer@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Folder.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-brands/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/005-speedometer.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Mastercard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/WorldWide.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/css/all.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Car.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/_includes/logo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/019-car-7.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/magnific-popup.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Planet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-brands-400.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/User.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Unlinked.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/014-money.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Phone2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/013-car-4.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/switcher/js/bootstrap-select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/noUiSlider/wNumb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/font/Flaticon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/css/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/020-loan.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slick/slick.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animsition/css/animsition.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/BigTruck.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/vip/bg-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Mug.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-team/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-solid-900.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/019-car-7.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/FullScreen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/go_top.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/License.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slick/slick.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Time.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-gallery/240x200/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/font/flaticon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/006-car-1.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Crown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/css/solid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/preview/05_blog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Pencil.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slick/slick-theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Carioca.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/80x80/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/007-gearshift.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/005-speedometer.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/_includes/analytics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Underpants.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/src/js/inline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/wordpress.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/libs/qunit/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-gallery/240x200/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/playful_white_rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/007-gearshift.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Screwdriver.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Truck.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/vip/bg-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Flag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/80x80/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/font/Flaticon.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/preview/01_home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/libs/popper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/830x400/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/017-car-6.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/map-marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Menu.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/dist/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-regular-400.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/headers/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Cup.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Info.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-main-slider/bg-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/ClipboardChart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/switcher/js/evol.colorpicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Dislike.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/vip/bg-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-brands/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/selection.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Radio.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Trousers.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/preview/03_inventory-grid.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/flowplayerhls.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Floppy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/ForkandKnife.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/On-Off.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/scrollreveal/scrollreveal.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/black_rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Signal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/360x280/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Gameboy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/TennisBall.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/site-assets/ajax/test-ajax-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-title-page/bg-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/elegant/fonts/ElegantIcons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slider-pro/images/openhand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Export.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/site-assets/ajax/test-ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/libs/bootstrap-4.1.3/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/TV.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/_layouts/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Heart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/fonts/Stroke-Gap-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Tools.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/MusicNote2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-gallery/240x200/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/noUiSlider/nouislider.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/simple-line-icons/css/simple-line-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Antenna1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-brands-400.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/black@x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/ClipboardText.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-solid-900.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/012-car-3.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/jqBootstrapValidation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/ShoppingCart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/play_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/021-car-repair-check-list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/300x220/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slick/slick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Stop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/backup.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/stellar/test/jquery.stellar_test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/003-wrench.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Ringer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/css/solid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/002-gearbox.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/MessageRight.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Dollars.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/360x260/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/site-assets/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/playful_black@x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/js/map-custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slider-pro/dist/js/jquery.sliderPro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Puzzle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Icecream1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Resume.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/play_white_rtl@x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/019-car-7.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/TeaMug.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/SodaCan.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/001-phone-call.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/minimalist.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Wheelbarrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-reviews/face-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-services/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/license/license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slick/fonts/slick.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/play_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/flowplayer.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Calculator.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-gallery/240x200/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/018-investment.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Eye.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/CD.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/jquery.magnific-popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/stellar/test/jquery-loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/preview/09_dealers.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/libs/jquery-loader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/016-car-5.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Notes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/003-wrench.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Chart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/font/Flaticon.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-solid-900.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Medal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Microphone2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/014-money.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/375x300/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Web.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Dollar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-regular-400.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/stellar/src/jquery.stellar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Tablet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/elegant/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Edit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap-select/css/bootstrap-select.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Typing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/830x400/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Soccer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Blog.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/jquery.magnific-popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Linked.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Bascketball.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/003-wrench.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/playful_white_rtl@x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Ipod.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Plaster.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/80x80/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/CompactCamera.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/logo-w.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Pen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Play.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/015-car-repair.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/PowerOff.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/009-paint-roller.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Tag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isotope/imagesLoaded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slider-pro/images/closedhand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/018-investment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/FemaleFigure.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Pizza.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slider-pro/dist/js/jquery.sliderPro.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Pill.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Agenda.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/012-car-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-dealers-info/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Like.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/dist/jquery.magnific-popup.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/WorldGlobe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/src/js/zoom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slider-pro/jquery.sliderPro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Files.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/fonts/fpicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/switcher/js/dmss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/fonts/Stroke-Gap-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Mouse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-migrate-1.4.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Glasses.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/all-skins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Starship2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Rolodex.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/008-car-door.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animsition/js/animsition.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Drop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Settings.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/contact_me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Restart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/015-car-repair.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/switcher/css/switcher.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/BottleofWIne.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/_includes/signup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/OpenedLock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/white_rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/play_white@x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/002-gearbox.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slick/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/008-car-door.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/013-car-4.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Pool.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/third-party-libs/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/001-phone-call.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/src/js/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/011-car-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Tshirt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Star.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/ChemicalGlass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Goto.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Watch.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/ExitFullScreen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slick/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/noUiSlider/nouislider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/001-phone-call.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/elegant/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slider-pro/dist/css/slider-pro.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-brands/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Headset.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Speedometter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/libs/bootstrap-4.1.3/js/bootstrap.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/stellar/test/jquery.stellar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/logo-light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/src/js/gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/830x400/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Delete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/libs/bootstrap-4.1.3/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/006-car-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slider-pro/dist/css/images/closedhand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/css/fontawesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/headers/header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Movie.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/black_rtl@x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/play_black_rtl@x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/src/css/_settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/play_white-old.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/preview/04_inventory-grid.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-regular-400.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Shield.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-brands-2/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/_includes/build-tool.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/WineGlass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-regular-400.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/80x80/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/014-money.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Cassette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/css/brands.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/006-car-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animsition/css/animsition.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Next.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Chart2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/rendro-easy-pie-chart/jquery.waypoints.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/009-paint-roller.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Espresso.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Cloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/src/js/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/DesktopMonitor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Starship.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/CoffeeToGo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Shaker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Help.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/css/svg-with-js.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slick/fonts/slick.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/List.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/preview/02_inventory-list.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/021-car-repair-check-list.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/isotope/isotope.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Magnet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Hanger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/MusicNote.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/300x220/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/009-paint-roller.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Telesocpe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slider-pro/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Timer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/004-car.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Bomb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-brands-2/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Snikers.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/face/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/video/1.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Bourbon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/white_rtl@x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Scisors.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/libs/bootstrap-4.1.3/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/css/svg-with-js.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Video.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Click.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-welcome/bg-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/play_black_rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/documentation.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/third-party-libs/zepto.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/libs/bootstrap-select.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Mute.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/BatteryLow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Key.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/015-car-repair.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Briefcase.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-brands/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/functional.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-reviews/face-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slick/fonts/slick.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/019-car-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/scrollreveal/scrollreveal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/noUiSlider/nouislider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/play_white_rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Pointer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Speaker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Handicap.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/fonts/fpicons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/noUiSlider/nouislider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/white@x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/004-car.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Pulse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slider-pro/slider-pro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/PicnicBasket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/libs/qunit/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/010-plunger.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/license/license.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slider-pro/dist/css/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/demo-page/mac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/PaperClip.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-main-slider/bg-2_item-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/MusicMixer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/001-phone-call.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/EmptyBox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/ClosedLock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/headers/slidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animate/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-main-slider/bg-2_items-all.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/switcher/css/color1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/ie7/ie7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/dist/jquery.magnific-popup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/font/flaticon.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/color.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/House.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-gallery/240x200/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/src/js/iframe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/016-car-5.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Layers.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-bnr/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/011-car-2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/008-car-door.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/013-car-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Corkscrew.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/360x260/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/018-investment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Anchor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/elegant/fonts/ElegantIcons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/014-money.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Imbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/font/Flaticon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/ChartDown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/300x220/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/009-paint-roller.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/830x400/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/css/v4-shims.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/headers/yamm.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/006-car-1.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Umbrella.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/360x280/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/libs/bootstrap-4.1.3/bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/360x260/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/src/js/retina.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/File.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Media.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Hourglass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/360x260/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Printer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/playful_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/playful_black_rtl@x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/demo-files/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/third-party-libs/uglify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/src/js/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/fonts/fpicons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/fonts/fpicons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Bread.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/011-car-2.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/ChartUp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-team/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/preview/08_about.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Soda.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/017-car-6.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Compass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-gallery/240x200/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/stellar/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/libs/jquery-3.3.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/play_black@x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/360x260/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/libs/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-team/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Mail.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/017-car-6.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/playful_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Share.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/012-car-3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slider-pro/jquery.sliderPro.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/300x220/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slick/slick.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap-select/js/bootstrap-select.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Column.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Microphone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Pause.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Controller.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/UploadCLoud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Download.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/375x300/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/libs/bootstrap-4.1.3/js/bootstrap.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/stellar/test/jquery.stellar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-reviews/face-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slick/slick-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/Read Me.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slider-pro/dist/css/images/openhand.cur" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/elegant/fonts/ElegantIcons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/third-party-libs/zepto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/switcher/css/color5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/flowplayer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/pe-icon-7-stroke/css/helper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/005-speedometer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/011-car-2.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Webcam.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Phone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Antenna2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/300x220/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/ie7/ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/360x280/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Notebook.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-brands-2/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/ManFigure.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/003-wrench.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Wrench.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/020-loan.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/021-car-repair-check-list.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-solid-900.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/preview/06_blog-post.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/css/brands.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/DSLRCamera.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-bnr/bg-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Megaphone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slick/fonts/slick.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-gallery/240x200/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-brands/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/010-plunger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Wallet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-main-slider/bg-2_item-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Forward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/btn-up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/embed.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/375x300/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/elegant/fonts/ElegantIcons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/animsition/js/animsition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Volume.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-reviews/bg-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-steps/bg-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slick/slick-theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Plaine.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/MessageLeft.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/libs/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Book.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/eps/020-loan.eps" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/fonts/Stroke-Gap-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/face/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/stellar/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/elegant/lte-ie7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/My icons collection-SVG-sprite.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/StorageBox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Bulb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/preview/10_dealer-info.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/BatteryFull.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-brands/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-regular-400.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/008-car-door.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-brands-2/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/fonts/Stroke-Gap-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Search.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/slider-pro/dist/css/slider-pro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-bnr/bg-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/flowplayer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Users.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Water.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/face/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/018-investment.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/010-plunger.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/007-gearshift.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-brands-400.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/360x260/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Message.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/021-car-repair-check-list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Exit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Bicycle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/SimCard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Icecream2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/CompassTool.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/website/_includes/examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/020-loan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/switcher/css/color2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/playful_white@x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/css/regular.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/My icons collection-SVG-Sprites-Demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-posts/830x450/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/004-car.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/font/_flaticon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/002-gearbox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/bootstrap-select/js/bootstrap-select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Footbal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-goods/375x300/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/svg/002-gearbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/switcher/css/color3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/010-plunger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/css/fontawesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Podium.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/magnific-popup.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/DiamondRing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Tie.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/playful.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/css/master.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/FileBox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Speaker2.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/flowplayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/flowplayer/skin/img/playful_black_rtl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-team/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/magnific-popup/src/css/main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/psd/015-car-repair.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-gallery/240x200/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/flaticon/png/007-gearshift.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/css/regular.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Picture.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-bnr/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/Bag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/demo-files/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/general/preview/07_contact.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/stroke/SVG/DownloadCloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-solid-900.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/plugins/stellar/stellar.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-main-slider/bg-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/fonts/fontawesome-free-5.6.1/css/v4-shims.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/media/content/b-brands-2/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/base.html.twig" afterPath="$PROJECT_DIR$/templates/base.html.twig" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1725">
+              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/home.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24058">
+              <caret line="1046" column="0" lean-forward="false" selection-start-line="1046" selection-start-column="0" selection-end-line="1046" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/base.html.twig" />
+        <option value="$PROJECT_DIR$/templates/home.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sf5_auto_rent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sf5_auto_rent" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sf5_auto_rent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sf5_auto_rent" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sf5_auto_rent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sf5_auto_rent" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sf5_auto_rent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sf5_auto_rent" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sf5_auto_rent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sf5_auto_rent" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Analyste programmeur\Formation Symfony\sf5_auto_rent\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14cc4602-5510-4afb-96ab-2e965e69775e" name="Default" comment="" />
+      <created>1588616174631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588616174631</updated>
+      <workItem from="1588616176175" duration="2923000" />
+      <workItem from="1588931712346" duration="212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3135000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17170954" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31240544" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17927383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32838285" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24058">
+          <caret line="1046" column="0" lean-forward="false" selection-start-line="1046" selection-start-column="0" selection-end-line="1046" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
